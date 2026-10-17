@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Rod end bearing">
+  <title>Rod end bearing</title>
+
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#f4f6f9"/>
+      <stop offset="22%" stop-color="#cdd4de"/>
+      <stop offset="48%" stop-color="#8f99a8"/>
+      <stop offset="72%" stop-color="#c8cfd9"/>
+      <stop offset="100%" stop-color="#6f7889"/>
+    </linearGradient>
+    <linearGradient id="steelDark" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#5b6474"/>
+      <stop offset="40%" stop-color="#9aa3b2"/>
+      <stop offset="70%" stop-color="#5f6878"/>
+      <stop offset="100%" stop-color="#3f4653"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#f0e0bd"/>
+      <stop offset="35%" stop-color="#d3b478"/>
+      <stop offset="65%" stop-color="#a8874a"/>
+      <stop offset="100%" stop-color="#dcc189"/>
+    </linearGradient>
+    <radialGradient id="ball" cx="35%" cy="30%" r="72%">
+      <stop offset="0%"  stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#d5dbe4"/>
+      <stop offset="75%" stop-color="#8e97a6"/>
+      <stop offset="100%" stop-color="#4e5665"/>
+    </radialGradient>
+    <linearGradient id="roller" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#eef1f5"/>
+      <stop offset="30%" stop-color="#c2c9d3"/>
+      <stop offset="62%" stop-color="#7d8695"/>
+      <stop offset="100%" stop-color="#525a68"/>
+    </linearGradient>
+    <linearGradient id="poly" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#3a4150"/>
+      <stop offset="55%" stop-color="#20252f"/>
+      <stop offset="100%" stop-color="#454d5c"/>
+    </linearGradient>
+    <radialGradient id="floor" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#1f2937" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="#1f2937" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+<ellipse cx="400" cy="686" rx="230" ry="34" fill="url(#floor)"/>
+<circle cx="400" cy="250" r="150" fill="url(#steelDark)" stroke="#3f4653" stroke-width="3"/>
+  <circle cx="400" cy="250" r="112" fill="url(#steel)" stroke="#5b6474" stroke-width="3"/>
+  <circle cx="400" cy="250" r="86" fill="url(#ball)" stroke="#454d5c" stroke-width="2.5"/>
+  <circle cx="400" cy="250" r="46" fill="#20252f"/>
+  <circle cx="400" cy="250" r="46" fill="url(#steelDark)" opacity=".5"/>
+  <ellipse cx="360" cy="204" rx="34" ry="20" fill="#ffffff" opacity=".45" transform="rotate(-28 360 204)"/>
+  <path d="M 342 378 L 354 500 L 446 500 L 458 378 Z" fill="url(#steelDark)" stroke="#3f4653" stroke-width="2.5"/>
+  <rect x="354" y="498" width="92" height="210" rx="6" fill="url(#steel)" stroke="#5b6474" stroke-width="2.5"/>
+  <path d="M 354 512 L 446 503" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 527 L 446 518" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 542 L 446 533" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 557 L 446 548" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 572 L 446 563" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 587 L 446 578" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 602 L 446 593" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 617 L 446 608" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 632 L 446 623" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 647 L 446 638" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 662 L 446 653" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 677 L 446 668" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <path d="M 354 692 L 446 683" stroke="#6f7889" stroke-width="3" opacity=".75"/>
+  <rect x="334" y="550" width="132" height="56" rx="7" fill="url(#steelDark)" stroke="#3f4653" stroke-width="2.5"/>
+</svg>

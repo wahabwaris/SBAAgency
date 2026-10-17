@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Angular contact ball bearing">
+  <title>Angular contact ball bearing</title>
+
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#f4f6f9"/>
+      <stop offset="22%" stop-color="#cdd4de"/>
+      <stop offset="48%" stop-color="#8f99a8"/>
+      <stop offset="72%" stop-color="#c8cfd9"/>
+      <stop offset="100%" stop-color="#6f7889"/>
+    </linearGradient>
+    <linearGradient id="steelDark" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#5b6474"/>
+      <stop offset="40%" stop-color="#9aa3b2"/>
+      <stop offset="70%" stop-color="#5f6878"/>
+      <stop offset="100%" stop-color="#3f4653"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#f0e0bd"/>
+      <stop offset="35%" stop-color="#d3b478"/>
+      <stop offset="65%" stop-color="#a8874a"/>
+      <stop offset="100%" stop-color="#dcc189"/>
+    </linearGradient>
+    <radialGradient id="ball" cx="35%" cy="30%" r="72%">
+      <stop offset="0%"  stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#d5dbe4"/>
+      <stop offset="75%" stop-color="#8e97a6"/>
+      <stop offset="100%" stop-color="#4e5665"/>
+    </radialGradient>
+    <linearGradient id="roller" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#eef1f5"/>
+      <stop offset="30%" stop-color="#c2c9d3"/>
+      <stop offset="62%" stop-color="#7d8695"/>
+      <stop offset="100%" stop-color="#525a68"/>
+    </linearGradient>
+    <linearGradient id="poly" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#3a4150"/>
+      <stop offset="55%" stop-color="#20252f"/>
+      <stop offset="100%" stop-color="#454d5c"/>
+    </linearGradient>
+    <radialGradient id="floor" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#1f2937" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="#1f2937" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+<ellipse cx="400" cy="686" rx="230" ry="34" fill="url(#floor)"/>
+<path d="M 142 390 a 258 258 0 1 0 516 0 a 258 258 0 1 0 -516 0 M 182 390 a 218 218 0 1 1 436 0 a 218 218 0 1 1 -436 0 Z" fill="url(#steelDark)" fill-rule="evenodd" stroke="#5b6474" stroke-width="2.5"/>
+  <path d="M 262 390 a 138 138 0 1 0 276 0 a 138 138 0 1 0 -276 0 M 302 390 a 98 98 0 1 1 196 0 a 98 98 0 1 1 -196 0 Z" fill="url(#steelDark)" fill-rule="evenodd" stroke="#5b6474" stroke-width="2.5"/>
+  <circle cx="400.0" cy="212.0" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="387.0" cy="198.0" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="482.7" cy="232.4" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="469.7" cy="218.4" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="546.5" cy="288.9" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="533.5" cy="274.9" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="576.7" cy="368.5" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="563.7" cy="354.5" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="566.4" cy="453.1" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="553.4" cy="439.1" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="518.0" cy="523.2" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="505.0" cy="509.2" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="442.6" cy="562.8" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="429.6" cy="548.8" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="357.4" cy="562.8" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="344.4" cy="548.8" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="282.0" cy="523.2" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="269.0" cy="509.2" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="233.6" cy="453.1" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="220.6" cy="439.1" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="223.3" cy="368.5" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="210.3" cy="354.5" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="253.5" cy="288.9" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="240.5" cy="274.9" r="12" fill="#ffffff" opacity=".7"/>
+  <circle cx="317.3" cy="232.4" r="38" fill="url(#ball)" stroke="#454d5c" stroke-width="2"/>
+  <circle cx="304.3" cy="218.4" r="12" fill="#ffffff" opacity=".7"/>
+  <path d="M 200 390 a 200 200 0 1 0 400 0 a 200 200 0 1 0 -400 0 M 208 390 a 192 192 0 1 1 384 0 a 192 192 0 1 1 -384 0 Z" fill="url(#brass)" fill-rule="evenodd" stroke="#8a6f38" stroke-width="1.4"/>
+  <path d="M 240 390 a 160 160 0 1 0 320 0 a 160 160 0 1 0 -320 0 M 248 390 a 152 152 0 1 1 304 0 a 152 152 0 1 1 -304 0 Z" fill="url(#brass)" fill-rule="evenodd" stroke="#8a6f38" stroke-width="1.4"/>
+  <circle cx="400" cy="390" r="98" fill="#ffffff" stroke="#c3c9d4" stroke-width="2"/>
+  <text x="400" y="399" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#98a1b2" letter-spacing="3">7000</text>
+</svg>
